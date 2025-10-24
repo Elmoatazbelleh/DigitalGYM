@@ -1,0 +1,31 @@
+# Uploaded files
+uploads/*
+!uploads/.gitkeep
+
+# Configuration files (if they contain sensitive data)
+# Uncomment if you want to exclude config
+# includes/config.php
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Database backups
+*.sql.gz
+*.sql.zip
+backup/
