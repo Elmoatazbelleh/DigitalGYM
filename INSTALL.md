@@ -7,7 +7,7 @@ Follow these steps to set up the Digital GYM application on your local server.
 ### Step 1: Requirements
 
 Ensure you have the following installed:
-- PHP 7.4 or higher
+- PHP 7.4 or higher (tested with PHP 8.3)
 - MySQL 5.7 or higher
 - Apache or Nginx web server
 - phpMyAdmin (optional, for easier database management)
@@ -16,7 +16,7 @@ Ensure you have the following installed:
 
 1. Clone or download the repository:
    ```bash
-   git clone https://github.com/Elmoatazbelleh/DigitalGYM.git
+   git clone https://github.com/YOUR_USERNAME/DigitalGYM.git
    ```
 
 2. Move the folder to your web server directory:

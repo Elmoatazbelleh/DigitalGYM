@@ -23,7 +23,7 @@ A comprehensive PHP web application for managing gym members, memberships, payme
 
 ### Prerequisites
 
-- PHP 7.4 or higher
+- PHP 7.4 or higher (tested with PHP 8.3)
 - MySQL 5.7 or higher
 - Apache/Nginx web server
 - phpMyAdmin (optional, for database management)
@@ -32,7 +32,7 @@ A comprehensive PHP web application for managing gym members, memberships, payme
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Elmoatazbelleh/DigitalGYM.git
+   git clone https://github.com/YOUR_USERNAME/DigitalGYM.git
    cd DigitalGYM
    ```
 
